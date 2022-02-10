@@ -1,0 +1,34 @@
+.azzurro{
+    background-color: aqua;
+}
+.giallo{
+    background-color: yellow;
+}
+.blu{
+    background-color: blue;
+}
+.bianco{
+    background-color: white;
+}
+
+.box-riempitivo{
+    height: 65px;
+}
+
+[class*="col-"]{
+    border: 0px solid;
+}
+
+.relative{
+    position: relative;
+}
+
+.occhio{
+    background-color: black;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    position: absolute;
+    right: 1%;
+    top: 2%;
+}

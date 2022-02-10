@@ -1,0 +1,17 @@
+.green{
+    background-color: rgb(1, 255, 101)
+}
+
+.box-riempitivo{
+    height: 30px;
+    width: 100%;
+    color: white;
+}
+
+.padding{
+    padding: .7rem;
+}
+
+/* .border{
+    border: 1px solid white;
+} */

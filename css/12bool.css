@@ -6,7 +6,7 @@
 
 .container{
     max-width: 1170px;
-    margin: 0 auto;
+    margin: 0 auto 2rem;
 }
 
 .row{
@@ -16,19 +16,15 @@
 }
 
 .box-riempitivo{
-    height: 20px;
-    width: 100%;
-    padding: .5rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
 }
 
 [class*="col-"]{
     flex: 0 0 auto;
-    background-color: blue;
     border: 1px solid white;
+    background-color: rgb(0, 108, 250);
 }
 
 @media screen {

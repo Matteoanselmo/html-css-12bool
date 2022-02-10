@@ -11,6 +11,14 @@
     background-color: white;
 }
 
+.arancio{
+    background-color: rgb(255, 102, 0);
+}
+
+.rosso{
+    background-color: red;
+}
+
 .box-riempitivo{
     height: 65px;
 }
